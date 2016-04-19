@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.org/m0kimura/kncms.git"
+    "url": "git://github.org/m0kimura/knmongo.git"
   },
   "dependencies": {
     "knuty": "latest",
